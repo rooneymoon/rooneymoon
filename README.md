@@ -1,6 +1,7 @@
-### Hi !
+### Hi there!✨
 
-I'm a 4-th year information studies student, with a strong interest in Data Analytics, Data Visualization and Programming.
+I'm a 4-th year information studies student who programs, with a strong interest in Data Analytics, Data Visualization and Programming.
+
 
 <!--
 **rooneymoon/rooneymoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=rooneymoon&style=flat-square&color=283c42&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rooneymoon&style=flat-square&color=926087&style=for-the-badge)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rooneymoon&theme=dark&background=000000)](https://git.io/streak-stats)
 
