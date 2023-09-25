@@ -1,22 +1,10 @@
-## Hi there!✨
+## Hi!👋
 
-I'm a 4-th year information studies student who programs, with a strong interest in Data Analytics, Data Visualization and Programming.<br>
-<b>Some projects are just practicing :)</b>
+I'm a 4th-year information studies student who programs💻 ,<br>
+with a strong interest in Data Analytics📈, Data Visualization📊 and Programming.<br>
 
-<!--
-**rooneymoon/rooneymoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>🪄Some projects are just practicing</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![](https://komarev.com/ghpvc/?username=rooneymoon&style=flat-square&color=926087&style=for-the-badge)
 
