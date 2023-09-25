@@ -1,7 +1,7 @@
-### Hi there!✨
+## Hi there!✨
 
-I'm a 4-th year information studies student who programs, with a strong interest in Data Analytics, Data Visualization and Programming.
-
+I'm a 4-th year information studies student who programs, with a strong interest in Data Analytics, Data Visualization and Programming.<br>
+<b>Some projects are just practicing :)</b>
 
 <!--
 **rooneymoon/rooneymoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
