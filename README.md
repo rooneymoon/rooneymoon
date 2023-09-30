@@ -5,6 +5,8 @@ with a strong interest in Data Analytics📈, Data Visualization📊 and Program
 
 <b>🪄Some projects are just practicing</b>
 
+![](https://komarev.com/ghpvc/?username=rooneymoon)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rooneymoon&theme=dark&background=000000)](https://git.io/streak-stats)
 
